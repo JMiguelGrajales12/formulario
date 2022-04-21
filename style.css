@@ -1,0 +1,14 @@
+.field{
+    border-radius: 10px;
+}
+
+form{
+    background-color: purple; /*color de fondo*/
+    border-radius: 10px; /*borde redondo*/
+    color: blueviolet; /*color de la letra*/
+    font-size: 16px;
+    margin: 30px;
+    width: 300px;
+    height: 200px   .;
+
+}
